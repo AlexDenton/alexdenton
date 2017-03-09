@@ -1,0 +1,20 @@
+# Site settings
+title: alex Denton | Software Developer
+description: Software Developer with an interest in scaling software and scaling teams
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Alex Denton
+#user_description: 
+user_title: Software Developer
+email: alex.denton.dev@gmail.com
+twitter_username: alexrdenton
+github_username:  AlexDenton
+# gplus_username: 
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
